@@ -1,0 +1,4 @@
+# IGNORAR LA CARPETA node_modules
+/frontend/node_modules
+#ignorar la carpeta de parcel
+/frontend/.parcel-cache
